@@ -90,7 +90,7 @@
         display: block;
     }
     .header .logo {
-        width: 200px;
+        width: 100px;
         margin-left: -0px;
     }
     .header .nav {
@@ -837,4 +837,5 @@ footer {
     opacity: 1;
     visibility: visible;
     transform: translateY(-30%);
+
 }
